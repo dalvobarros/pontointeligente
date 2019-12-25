@@ -1,5 +1,4 @@
 [![Build Status](https://www.travis-ci.org/dalvobarros/pontointeligente.svg?branch=master)](https://www.travis-ci.org/dalvobarros/pontointeligente)
-
 # Ponto Inteligente
 API do sistema de ponto inteligente com Java e Spring Boot.
 ### Detalhes da API RESTful
